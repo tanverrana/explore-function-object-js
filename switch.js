@@ -20,7 +20,6 @@ else if (color == "black") {
 else {
     console.log("Color No Match")
 }
-
 switch (color) {
     case "blue":
         console.log("Color is blue");
@@ -39,5 +38,4 @@ switch (color) {
         break;
     default:
         console.log("Color no Match");
-
 }
